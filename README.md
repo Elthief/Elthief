@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hai Everyone!
+
+### **My name is Isham Fakhri Rahman**
+
+Currently I am a student at some university in Turkey.  
+I want to be a fullstack web developer.  
+If you interested with me, just follow my [LinkedIn](https://www.linkedin.com/in/isham-fakhri-5393ab139) account.
 
 <!--
 **Elthief/Elthief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
