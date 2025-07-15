@@ -4,7 +4,7 @@
 
 Currently, I am a student at Igdir University Türkiye.  
 Tech Enthusiast  
-If you interested with me, just connect with my [LinkedIn](https://www.linkedin.com/in/isham-fakhri-5393ab139) account.
+If you're interested in me, connect with my [LinkedIn](https://www.linkedin.com/in/isham-fakhri/) account.
 
 ![Visitor Badge](https://visitor-badges.glitch.me?username=elthief&repo=elthief$style=for-the-badge)
 <!-- https://github.com/feri-irawan/visitor-badge -->
